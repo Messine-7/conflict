@@ -1,2 +1,2 @@
-Remote
+local
 # conflict test micro
