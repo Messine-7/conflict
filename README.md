@@ -1,2 +1,2 @@
-local
+Local
 # conflict test micro
